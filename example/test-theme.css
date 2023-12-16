@@ -1,0 +1,8 @@
+/* @theme test-theme */
+
+@import "default";
+
+section h1{
+    font-size: 130px;
+    color: #d13800;
+}
